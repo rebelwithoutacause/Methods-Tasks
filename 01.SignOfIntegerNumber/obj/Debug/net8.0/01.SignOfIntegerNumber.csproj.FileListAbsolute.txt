@@ -1,0 +1,14 @@
+C:\Users\rebel\Desktop\QA Exercises\Methods-Lab\MethodsLab\01.SignOfIntegerNumber\bin\Debug\net8.0\01.SignOfIntegerNumber.exe
+C:\Users\rebel\Desktop\QA Exercises\Methods-Lab\MethodsLab\01.SignOfIntegerNumber\bin\Debug\net8.0\01.SignOfIntegerNumber.deps.json
+C:\Users\rebel\Desktop\QA Exercises\Methods-Lab\MethodsLab\01.SignOfIntegerNumber\bin\Debug\net8.0\01.SignOfIntegerNumber.runtimeconfig.json
+C:\Users\rebel\Desktop\QA Exercises\Methods-Lab\MethodsLab\01.SignOfIntegerNumber\bin\Debug\net8.0\01.SignOfIntegerNumber.dll
+C:\Users\rebel\Desktop\QA Exercises\Methods-Lab\MethodsLab\01.SignOfIntegerNumber\bin\Debug\net8.0\01.SignOfIntegerNumber.pdb
+C:\Users\rebel\Desktop\QA Exercises\Methods-Lab\MethodsLab\01.SignOfIntegerNumber\obj\Debug\net8.0\01.SignOfIntegerNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebel\Desktop\QA Exercises\Methods-Lab\MethodsLab\01.SignOfIntegerNumber\obj\Debug\net8.0\01.SignOfIntegerNumber.AssemblyInfoInputs.cache
+C:\Users\rebel\Desktop\QA Exercises\Methods-Lab\MethodsLab\01.SignOfIntegerNumber\obj\Debug\net8.0\01.SignOfIntegerNumber.AssemblyInfo.cs
+C:\Users\rebel\Desktop\QA Exercises\Methods-Lab\MethodsLab\01.SignOfIntegerNumber\obj\Debug\net8.0\01.SignOfIntegerNumber.csproj.CoreCompileInputs.cache
+C:\Users\rebel\Desktop\QA Exercises\Methods-Lab\MethodsLab\01.SignOfIntegerNumber\obj\Debug\net8.0\01.SignOfIntegerNumber.dll
+C:\Users\rebel\Desktop\QA Exercises\Methods-Lab\MethodsLab\01.SignOfIntegerNumber\obj\Debug\net8.0\refint\01.SignOfIntegerNumber.dll
+C:\Users\rebel\Desktop\QA Exercises\Methods-Lab\MethodsLab\01.SignOfIntegerNumber\obj\Debug\net8.0\01.SignOfIntegerNumber.pdb
+C:\Users\rebel\Desktop\QA Exercises\Methods-Lab\MethodsLab\01.SignOfIntegerNumber\obj\Debug\net8.0\01.SignOfIntegerNumber.genruntimeconfig.cache
+C:\Users\rebel\Desktop\QA Exercises\Methods-Lab\MethodsLab\01.SignOfIntegerNumber\obj\Debug\net8.0\ref\01.SignOfIntegerNumber.dll
